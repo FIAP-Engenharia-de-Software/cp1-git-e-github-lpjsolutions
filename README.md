@@ -17,12 +17,10 @@ A **Social Connect** é uma plataforma inovadora focada em conectar pessoas e em
 
 | Nome | RM |
 |------|----|
-| Jhonathan Dourado | RM000000 |
-| José Feliciano | RM000000 |
-| Koba XZS | RM000000 |
-| PVA Stack | RM000000 |
-
-> Substitua os valores de RM pelos RMs reais de cada integrante.
+| Jhonathan dos Santos Dourado | 569568 |
+| João Matheus Feliciano de Bueno | 569850 |
+| Lucas Figueiredo Kobayashi | 569905 |
+| Pedro Viana Alves | 572971 |
 
 ## Link do site
 
